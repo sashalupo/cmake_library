@@ -1,0 +1,6 @@
+/ws/foo_library/install/lib/libfoo_library.so
+/ws/foo_library/install/include/foo_library/foo_library.h
+/ws/foo_library/install/cmake/foo_libraryTargets.cmake
+/ws/foo_library/install/cmake/foo_libraryTargets-noconfig.cmake
+/ws/foo_library/install/cmake/foo_libraryConfig.cmake
+/ws/foo_library/install/cmake/foo_libraryConfigVersion.cmake

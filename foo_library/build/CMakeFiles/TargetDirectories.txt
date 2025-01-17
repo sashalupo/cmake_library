@@ -1,0 +1,7 @@
+/ws/foo_library/build/CMakeFiles/foo_library.dir
+/ws/foo_library/build/CMakeFiles/edit_cache.dir
+/ws/foo_library/build/CMakeFiles/rebuild_cache.dir
+/ws/foo_library/build/CMakeFiles/list_install_components.dir
+/ws/foo_library/build/CMakeFiles/install.dir
+/ws/foo_library/build/CMakeFiles/install/local.dir
+/ws/foo_library/build/CMakeFiles/install/strip.dir
