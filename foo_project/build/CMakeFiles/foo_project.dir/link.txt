@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/foo_project.dir/src/main.cpp.o -o foo_project  /usr/local/lib/libfoo_library.a 

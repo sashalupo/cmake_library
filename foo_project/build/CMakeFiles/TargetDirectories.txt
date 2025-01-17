@@ -1,3 +1,0 @@
-/ws/foo_project/build/CMakeFiles/foo_project.dir
-/ws/foo_project/build/CMakeFiles/edit_cache.dir
-/ws/foo_project/build/CMakeFiles/rebuild_cache.dir
