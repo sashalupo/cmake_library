@@ -59,6 +59,9 @@ This project is a CMake-based library designed to demonstrate the use of CMake f
     make
     ```
 
+## Installation
+To change the installation path (default value for this project is the install directory in the main directory) set CMAKE_INSTALL_PREFIX variable in Installing.cmake file
+
 ## Usage
 After building the project, you can use the library in your own projects by linking against it. Include the appropriate headers and link the compiled library.
 
